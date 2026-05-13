@@ -114,9 +114,9 @@ Commercial projects can include a Github link to their source-available code for
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) – a curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic machine-to-machine payments using USDC over standard HTTP
 - [Gringotts](https://github.com/aviabird/gringotts) – a simple and unified API to access dozens of different payment gateways with very different APIs, response schemas, documentation, and jargon
 - [hyperswitch.io](https://github.com/juspay/hyperswitch/) – is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
+- [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – A stateless, unified payment processing library to integrate with multiple payment processors. Supports multi-language SDKs. Extracted from production experience of Juspay hyperswitch payments platform.
 - [Omnipay](https://github.com/thephpleague/omnipay) – payment processing library for PHP
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) – JavaScript integration for PayPal Button and PayPal Checkout
-- [Hyperswitch Prism](https://github.com/juspay/hyperswitch-prism) – A stateless, unified payment processing library to integrate with multiple payment processors. Supports multi-language SDKs. Extracted from production experience of Juspay hyperswitch payments platform.
 - [react-native-payments](https://github.com/naoufal/react-native-payments) – for integrating payments like Apple Pay and Google Pay into your React Native app
 - [Recurly.js](https://github.com/recurly/recurly-js) – create subscriptions, process one-time transactions, and update customer billing information
 - [upi-intent](https://github.com/shambu2k/upi-intent) – Framework-agnostic JS/TS library for generating UPI app-specific deep links with Android and iOS fallbacks.
